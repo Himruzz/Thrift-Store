@@ -1,3 +1,31 @@
+
+# 🧠 ThriftGenius – AI-Powered Thrift Store
+
+**ThriftGenius** is a modern, AI-powered thrift store e-commerce platform built with **Next.js** (Page Router), enabling users to discover secondhand treasures personalized by artificial intelligence.
+
+## 🚀 Features
+
+- 🔍 **AI Recommendations** – Smart suggestions based on browsing and purchase behavior.
+- 🛍️ **Secondhand Product Listings** – Curated and user-uploaded pre-loved items.
+- 🧠 **Smart Search** – AI-enhanced search functionality that understands natural language.
+- 🌿 **Eco-Friendly Focus** – Promote sustainability through reusability.
+- 📦 **Cart & Checkout System** – Seamless user experience for adding to cart and purchasing.
+- 🔒 **Authentication & Authorization** – Secure login/signup with user dashboard.
+- 📱 **Responsive Design** – Works smoothly across mobile, tablet, and desktop devices.
+
+## 🧰 Tech Stack
+
+- **Framework:** Next.js (Page Router)
+- **Frontend:** React, Bootstrap / Tailwind CSS
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB (Mongoose)
+- **AI Integration:** OpenAI API / TensorFlow.js (for recommendations)
+- **Authentication:** NextAuth.js / JWT
+- **Cloud & Deployment:** Vercel / MongoDB Atlas
+
+## 📁 File Structure
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/pages/api-reference/create-next-app).
 
 ## Getting Started
